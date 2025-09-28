@@ -1,9 +1,9 @@
 {
-  "name": "vuejs-taller-umg",
+  "name": "sistema-gestion-frontend",
   "private": true,
   "version": "1.0.0",
-  "description": "Sistema de gestión de usuarios con Vue.js y Vuetify",
-  "author": "Isaac Flores <isaac.flores.dev@gmail.com>",
+  "description": "Sistema de gestión de usuarios y tareas - Frontend para segundo parcial UMG",
+  "author": "Manuel Grijalva",
   "type": "module",
   "scripts": {
     "dev": "vite",
